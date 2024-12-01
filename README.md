@@ -31,30 +31,10 @@ Gameplay Instructions
 3. *Matching*: If the two selected cards match, they will remain face-up. If they do not match, they will be hidden again, and the player will need to select two new cards.
 4. *Game Over*: The game ends when all pairs are matched. The number of moves taken to complete the game is displayed.
 
- Example Gameplay
+Example Gameplay
 
-
-Board:
-{* * * *
-* * * *
-* * * *
-* * * *}
-
-Select the first card (row and column): 0 0
-Select the second card (row and column): 1 1
-
-Board:
-{1 * * *
- * 2 * *
- * * * *
- * * * *}
-
-Not a match. Try again.
-
-Select the first card (row and column): 0 1
-Select the second card (row and column): 1 0
-
-...
+The gameplay can be seen in the input&output.jpeg file
+sorry for the inconvinience
 
 Congratulations! You've matched all pairs in 10 moves.
 
