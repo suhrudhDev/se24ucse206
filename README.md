@@ -35,21 +35,19 @@ Gameplay Instructions
 
 
 Board:
-
-*	*	*	*	
-*	*	*	*	
-*	*	*	*	
-*	*	*	*	
+* * * *
+* * * *
+* * * *
+* * * *
 
 Select the first card (row and column): 0 0
 Select the second card (row and column): 1 1
 
 Board:
-
-1	*	*	*	
-*	2	*	*	
-*	*	*	*	
-*	*	*	*	
+1 * * *
+* 2 * *
+* * * *
+* * * *
 
 Not a match. Try again.
 
